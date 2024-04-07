@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rudra2027 (ADARSH GOUR)
-- 👀 I’m interested in  WEB DEVELOPMENT , SOFTWARE DEVELOPMENT & ANDROID DEVELOPMENT.
-- 🌱 I’m currently  in FINAL YEAR OF MY B.TECH COMPUTER SCIENCE ENGINEERING FROM  LOVELY PROFESSIONAL UNIVERSITY AND A INTERN AT DAYLY.CORP AS FULL STACK DEVELOPER.
+- 👀 I’m interested in  Devops/SRE/Platform-Engineering .
+- 🌱 I’m currently  in SHL Global.
 - 💞️ I’m looking to collaborate on  ALL KINDS OF DEVELOPMENT PROJECTS AND A FULL TIME EMPLOYMENT JOB .
 - 📫 How to reach me - FEEL FREE TO CONTACT ME ON MY MAIL -"rudransh3067@gmail.com"/ CONTACT-"+919589211541".
 -  LINKEDIN- https://www.linkedin.com/in/adarsh-gour-25481b170/
